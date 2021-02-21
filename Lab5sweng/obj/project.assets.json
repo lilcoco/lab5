@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nadim Kayali\\Desktop\\Clases\\PennState\\Current\\SWENG421_S2021\\Lab5\\Lab5\\Lab5.csproj",
+      "projectUniqueName": "C:\\Users\\Nadim Kayali\\Desktop\\Clases\\PennState\\Current\\SWENG421_S2021\\lab5git\\lab5\\Lab5sweng\\Lab5.csproj",
       "projectName": "Lab5",
-      "projectPath": "C:\\Users\\Nadim Kayali\\Desktop\\Clases\\PennState\\Current\\SWENG421_S2021\\Lab5\\Lab5\\Lab5.csproj",
+      "projectPath": "C:\\Users\\Nadim Kayali\\Desktop\\Clases\\PennState\\Current\\SWENG421_S2021\\lab5git\\lab5\\Lab5sweng\\Lab5.csproj",
       "packagesPath": "C:\\Users\\Nadim Kayali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nadim Kayali\\Desktop\\Clases\\PennState\\Current\\SWENG421_S2021\\Lab5\\Lab5\\obj\\",
+      "outputPath": "C:\\Users\\Nadim Kayali\\Desktop\\Clases\\PennState\\Current\\SWENG421_S2021\\lab5git\\lab5\\Lab5sweng\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nadim Kayali\\AppData\\Roaming\\NuGet\\NuGet.Config",

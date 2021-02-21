@@ -6,20 +6,14 @@ namespace Lab5
 {
     public class CompBuilder
     {
-        private double previousValue;
+        private double currentValue;
         private double input;
         private CompIF comp;
         private Factory factory;
-        private double result = 0.0;
-
-
-        public CompBuilder()
-        {
-            this.previousValue = 0.0;
-        }
+      
         public CompBuilder(double previousValue, double input, String str)
         {
-            this.previousValue = previousValue;
+            this.currentValue = previousValue;
             this.input = input;
             this.factory = new Factory();
            
@@ -32,26 +26,26 @@ namespace Lab5
             if (comp.GetType() == Type.GetType("Lab5.Log"))
             {
 
-                result = ((NoInputCompIF)comp).compute(previousValue);
+                currentValue = ((NoInputCompIF)comp).compute(currentValue);
 
             }
             else if (comp.GetType() == Type.GetType("Lab5.Initialize"))
             {
 
-                result = ((NoInputCompIF)comp).compute(input);
+                currentValue = ((NoInputCompIF)comp).compute(input);
             }
             else
             {
-                result = ((InputCompIF)comp).compute(input, previousValue);
+                currentValue = ((InputCompIF)comp).compute(input, currentValue);
             }
 
-            this.previousValue = result;
-            return result;
+            
+            return currentValue;
         }
 
         public double getCurrValue()
         {
-            return this.previousValue;
+            return this.currentValue;
         }
     }
 }

@@ -13,7 +13,7 @@ namespace Lab5
     public partial class Form1 : Form
     {
         FileOperations file = new FileOperations();
-        CompBuilder cb = new CompBuilder();
+        CompBuilder cb;
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +22,7 @@ namespace Lab5
             methods.Items.AddRange(file.getModules().ToArray());
 
             // Set the current Value
-            currValue.Text = cb.getCurrValue().ToString();
+            currValue.Text = "0.0";
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -42,7 +42,15 @@ namespace Lab5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            cb = new CompBuilder(cb.getCurrValue(), Convert.ToDouble(inputTextBox.Text), (String)methods.SelectedItem);
+            if(cb != null)
+            {
+                cb = new CompBuilder(cb.getCurrValue(), Convert.ToDouble(inputTextBox.Text), (String)methods.SelectedItem);
+            }
+            else
+            {
+                cb = new CompBuilder(0.0, Convert.ToDouble(inputTextBox.Text), (String)methods.SelectedItem);
+            }
+           
             outputLabel.Text = cb.execute().ToString();
 
             currValue.Text = cb.getCurrValue().ToString();
