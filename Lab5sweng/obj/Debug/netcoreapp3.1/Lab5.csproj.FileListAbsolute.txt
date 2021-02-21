@@ -1,0 +1,15 @@
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csprojAssemblyReference.cache
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.Form1.resources
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.GenerateResource.cache
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
+C:\Users\Nadim Kayali\Desktop\Clases\PennState\Current\SWENG421_S2021\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.genruntimeconfig.cache
